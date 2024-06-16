@@ -7,7 +7,7 @@ In these types of registers we can perform shifting and buffering independently,
 ![Circuit Diagram ](https://github.com/DinethPrabashana/Parallel-Load-Register/blob/main/Parallel%20Load%20Register/Circuit%20Diagrams/Circuit.png)
 
 Check the verilog implementation from the below links,
-- ![shift_buff_reg.v](https://github.com/DinethPrabashana/Parallel-Load-Register/blob/main/Parallel%20Load%20Register/Verilog%20Codes/shift_buff_reg.v)
-- ![DF.v](https://github.com/DinethPrabashana/Parallel-Load-Register/blob/main/Parallel%20Load%20Register/Verilog%20Codes/DF.v)
-- ![tb.v](https://github.com/DinethPrabashana/Parallel-Load-Register/blob/main/Parallel%20Load%20Register/Verilog%20Codes/tb.v)
+- [shift_buff_reg.v](https://github.com/DinethPrabashana/Parallel-Load-Register/blob/main/Parallel%20Load%20Register/Verilog%20Codes/shift_buff_reg.v)
+- [DF.v](https://github.com/DinethPrabashana/Parallel-Load-Register/blob/main/Parallel%20Load%20Register/Verilog%20Codes/DF.v)
+- [tb.v](https://github.com/DinethPrabashana/Parallel-Load-Register/blob/main/Parallel%20Load%20Register/Verilog%20Codes/tb.v)
 
